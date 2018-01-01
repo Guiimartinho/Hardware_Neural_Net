@@ -117,8 +117,6 @@ Functionality Achieved: A
 In conclusion, the design worked as planned, with the network being able to learn the AND, OR, and XOR functions. However, the network was limited in accuracy of the output, due to the small precision in number representation.
 Due to the speed of the network, it seems a suitable tool for future study and improvement over similar networks in software.
 
-I can be contacted at albntomat0@gmail.com for questions/comments.
-
 ### Further Work
 This work will be continued next semester as an independent study. The goals of this study are to improve the precision of the current design, and implement a network used for a modern application of ANNs, such as handwriting recognition.
 
@@ -134,8 +132,3 @@ http://cseweb.ucsd.edu/classes/wi11/cse141L/tipsandtricks.html
 
 The text Artificial Intelligence: A Modern Approach and MIT OpenCourseware AI class (specifically the handout on neural nets) helped me understand the implementation
 of neural networks.
-
-Captain Silva provided support with trying to instantiate a number of modules based off of an input generic (not attempted in project). 
-Dr. Martin Carlisle (DFCS) provided help with determining that the input level should not be nodes (mentioned in debugging section).
-
-I viewed C2C Kevin Cooper's writeup to have a glimpse of excellence.
